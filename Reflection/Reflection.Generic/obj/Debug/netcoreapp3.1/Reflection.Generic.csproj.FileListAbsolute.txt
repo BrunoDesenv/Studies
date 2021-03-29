@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\bin\Debug\netcoreapp3.1\Reflection.Generic.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\bin\Debug\netcoreapp3.1\Reflection.Generic.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\bin\Debug\netcoreapp3.1\Reflection.Generic.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\bin\Debug\netcoreapp3.1\Reflection.Generic.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\bin\Debug\netcoreapp3.1\Reflection.Generic.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\bin\Debug\netcoreapp3.1\Reflection.Generic.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\obj\Debug\netcoreapp3.1\Reflection.Generic.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\obj\Debug\netcoreapp3.1\Reflection.Generic.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\obj\Debug\netcoreapp3.1\Reflection.Generic.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\obj\Debug\netcoreapp3.1\Reflection.Generic.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\obj\Debug\netcoreapp3.1\Reflection.Generic.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\obj\Debug\netcoreapp3.1\Reflection.Generic.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Generic\obj\Debug\netcoreapp3.1\Reflection.Generic.genruntimeconfig.cache

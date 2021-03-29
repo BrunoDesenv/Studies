@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\obj\Debug\netcoreapp3.1\Null.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\obj\Debug\netcoreapp3.1\Null.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\obj\Debug\netcoreapp3.1\Null.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\obj\Debug\netcoreapp3.1\Null.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\bin\Debug\netcoreapp3.1\Null.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\bin\Debug\netcoreapp3.1\Null.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\bin\Debug\netcoreapp3.1\Null.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\bin\Debug\netcoreapp3.1\Null.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\bin\Debug\netcoreapp3.1\Null.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\bin\Debug\netcoreapp3.1\Null.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\obj\Debug\netcoreapp3.1\Null.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\obj\Debug\netcoreapp3.1\Null.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Null\Null\obj\Debug\netcoreapp3.1\Null.genruntimeconfig.cache

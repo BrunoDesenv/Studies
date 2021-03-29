@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache

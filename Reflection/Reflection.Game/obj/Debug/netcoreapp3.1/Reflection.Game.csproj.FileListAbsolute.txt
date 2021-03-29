@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\obj\Debug\netcoreapp3.1\Reflection.Game.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\obj\Debug\netcoreapp3.1\Reflection.Game.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\obj\Debug\netcoreapp3.1\Reflection.Game.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\obj\Debug\netcoreapp3.1\Reflection.Game.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\bin\Debug\netcoreapp3.1\Reflection.Game.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\bin\Debug\netcoreapp3.1\Reflection.Game.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\bin\Debug\netcoreapp3.1\Reflection.Game.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\bin\Debug\netcoreapp3.1\Reflection.Game.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\bin\Debug\netcoreapp3.1\Reflection.Game.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\bin\Debug\netcoreapp3.1\Reflection.Game.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\obj\Debug\netcoreapp3.1\Reflection.Game.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\obj\Debug\netcoreapp3.1\Reflection.Game.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Reflection\Reflection.Game\obj\Debug\netcoreapp3.1\Reflection.Game.genruntimeconfig.cache
