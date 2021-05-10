@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache
