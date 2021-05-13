@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\bin\Debug\netcoreapp3.1\Dispose.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\bin\Debug\netcoreapp3.1\Dispose.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\bin\Debug\netcoreapp3.1\Dispose.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\bin\Debug\netcoreapp3.1\Dispose.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\bin\Debug\netcoreapp3.1\Dispose.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\bin\Debug\netcoreapp3.1\Dispose.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\obj\Debug\netcoreapp3.1\Dispose.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\obj\Debug\netcoreapp3.1\Dispose.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\obj\Debug\netcoreapp3.1\Dispose.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\obj\Debug\netcoreapp3.1\Dispose.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\obj\Debug\netcoreapp3.1\Dispose.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\obj\Debug\netcoreapp3.1\Dispose.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\Dispose\Dispose\obj\Debug\netcoreapp3.1\Dispose.genruntimeconfig.cache
