@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqExamples.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqExamples.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqExamples.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqExamples.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqExamples.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\bin\Debug\netcoreapp3.1\LinqExamples.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\LinqExamples\LinqExamples\obj\Debug\netcoreapp3.1\LinqExamples.genruntimeconfig.cache

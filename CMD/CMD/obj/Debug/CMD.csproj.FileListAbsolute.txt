@@ -1,0 +1,7 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\CMD\CMD\bin\Debug\CMD.exe.config
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\CMD\CMD\bin\Debug\CMD.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\CMD\CMD\bin\Debug\CMD.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\CMD\CMD\obj\Debug\CMD.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\CMD\CMD\obj\Debug\CMD.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\CMD\CMD\obj\Debug\CMD.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\CMD\CMD\obj\Debug\CMD.pdb
