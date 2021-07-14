@@ -1,0 +1,12 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\Singleton\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\Singleton\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\Singleton\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\Singleton\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\Singleton\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\Singleton\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\Singleton\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\Singleton\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\Singleton\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\Singleton\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\Singleton\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\CreationalPatterns\Singleton\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
