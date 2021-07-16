@@ -1,0 +1,13 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\bin\Debug\netcoreapp3.1\DemoAdapterPattern.exe
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\bin\Debug\netcoreapp3.1\DemoAdapterPattern.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\bin\Debug\netcoreapp3.1\DemoAdapterPattern.runtimeconfig.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\bin\Debug\netcoreapp3.1\DemoAdapterPattern.runtimeconfig.dev.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\bin\Debug\netcoreapp3.1\DemoAdapterPattern.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\bin\Debug\netcoreapp3.1\DemoAdapterPattern.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\obj\Debug\netcoreapp3.1\DemoAdapterPattern.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\obj\Debug\netcoreapp3.1\DemoAdapterPattern.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\obj\Debug\netcoreapp3.1\DemoAdapterPattern.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\obj\Debug\netcoreapp3.1\DemoAdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\obj\Debug\netcoreapp3.1\DemoAdapterPattern.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\obj\Debug\netcoreapp3.1\DemoAdapterPattern.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Estudo\Study\DesignPatterns\StructuralPatterns\Adapter\DemoAdapterPattern\obj\Debug\netcoreapp3.1\DemoAdapterPattern.genruntimeconfig.cache
