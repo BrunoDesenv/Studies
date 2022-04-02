@@ -1,0 +1,13 @@
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\bin\Debug\netcoreapp3.1\List.exe
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\bin\Debug\netcoreapp3.1\List.deps.json
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\bin\Debug\netcoreapp3.1\List.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\bin\Debug\netcoreapp3.1\List.pdb
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\obj\Debug\netcoreapp3.1\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\obj\Debug\netcoreapp3.1\List.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\obj\Debug\netcoreapp3.1\List.pdb
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\List\List\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache
