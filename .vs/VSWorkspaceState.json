@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LinqExamples",
-    "\\List",
-    "\\Null",
-    "\\Null\\Null"
+    "\\Reflection",
+    "\\Stack"
   ],
-  "SelectedNode": "\\List",
+  "SelectedNode": "\\Stack",
   "PreviewInSolutionExplorer": false
 }
