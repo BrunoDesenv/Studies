@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Desktop\\Desktop\\Pessoal\\Estudo\\Study\\Stack\\Stack\\Stack\\Stack.csproj",
+      "projectUniqueName": "C:\\Users\\Desktop\\Desktop\\Pessoal\\Estudo\\Study\\Stack\\Stack\\Stack.csproj",
       "projectName": "Stack",
-      "projectPath": "C:\\Users\\Desktop\\Desktop\\Pessoal\\Estudo\\Study\\Stack\\Stack\\Stack\\Stack.csproj",
+      "projectPath": "C:\\Users\\Desktop\\Desktop\\Pessoal\\Estudo\\Study\\Stack\\Stack\\Stack.csproj",
       "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Desktop\\Desktop\\Pessoal\\Estudo\\Study\\Stack\\Stack\\Stack\\obj\\",
+      "outputPath": "C:\\Users\\Desktop\\Desktop\\Pessoal\\Estudo\\Study\\Stack\\Stack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",

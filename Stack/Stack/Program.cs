@@ -6,6 +6,8 @@ namespace Stack
     {
         static void Main(string[] args)
         {
+            //Example();
+
             StackInt stack = new StackInt();
 
             string item;
@@ -46,10 +48,43 @@ namespace Stack
             {
                 retorno = stack.POP();
                 if (retorno.ok)
-                    Console.WriteLine("Dados retirado: "  + retorno.item);
+                    Console.WriteLine("Dados retirado: " + retorno.item);
             } while (retorno.ok);
+        }
 
 
+        static void Example()
+        {
+            StackInt s = new StackInt();
+            StackInt.Retorno res = new StackInt.Retorno();
+            //Scanner entrada = new Scanner(System.in);
+            int resto, num;
+
+            //Initialize the stack
+            s.INIT();
+
+
+            Console.WriteLine("Digite valor número na base 10: ");
+            num = Convert.ToInt32(Console.ReadLine());
+
+            // making successive divisions and stacking the values ​​of the
+            // remainder until num is zero
+            while (num > 0)
+            {
+                resto = num % 2;
+                s.PUSH(resto);
+                num = num / 2;
+            }
+
+            /* writing the remainder in reverse order that they were obtained
+               using stack LIFO property*/
+            Console.WriteLine("Numero em binario: ");
+            do
+            {
+                res = s.POP();
+                if (res.ok)
+                    Console.Write(" " + res.item);
+            } while (res.ok);
         }
     }
 }
