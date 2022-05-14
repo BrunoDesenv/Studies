@@ -1,0 +1,16 @@
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\obj\Debug\net5.0\Recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\obj\Debug\net5.0\Recursive.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\obj\Debug\net5.0\Recursive.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\obj\Debug\net5.0\Recursive.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\bin\Debug\net5.0\Recursive.exe
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\bin\Debug\net5.0\Recursive.deps.json
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\bin\Debug\net5.0\Recursive.runtimeconfig.json
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\bin\Debug\net5.0\Recursive.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\bin\Debug\net5.0\Recursive.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\bin\Debug\net5.0\ref\Recursive.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\bin\Debug\net5.0\Recursive.pdb
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\obj\Debug\net5.0\Recursive.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\obj\Debug\net5.0\ref\Recursive.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\obj\Debug\net5.0\Recursive.pdb
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\obj\Debug\net5.0\Recursive.genruntimeconfig.cache
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Recursive\Recursive\obj\Debug\net5.0\Recursive.csproj.AssemblyReference.cache
