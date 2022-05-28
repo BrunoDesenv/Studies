@@ -11,5 +11,7 @@ namespace BinaryTree
         public int data;
         public Tree right;
         public Tree left;
+        public int h_esq;
+        public int h_dir;
     }
 }

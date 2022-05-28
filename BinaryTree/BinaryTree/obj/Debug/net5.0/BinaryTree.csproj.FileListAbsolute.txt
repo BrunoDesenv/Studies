@@ -1,0 +1,15 @@
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\bin\Debug\net5.0\BinaryTree.exe
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\bin\Debug\net5.0\BinaryTree.deps.json
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\bin\Debug\net5.0\BinaryTree.runtimeconfig.json
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\bin\Debug\net5.0\BinaryTree.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\bin\Debug\net5.0\BinaryTree.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\bin\Debug\net5.0\ref\BinaryTree.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\bin\Debug\net5.0\BinaryTree.pdb
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\obj\Debug\net5.0\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\obj\Debug\net5.0\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\obj\Debug\net5.0\BinaryTree.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\obj\Debug\net5.0\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\obj\Debug\net5.0\BinaryTree.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\obj\Debug\net5.0\ref\BinaryTree.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\obj\Debug\net5.0\BinaryTree.pdb
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\BinaryTree\BinaryTree\obj\Debug\net5.0\BinaryTree.genruntimeconfig.cache
