@@ -1,0 +1,16 @@
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\obj\Debug\net5.0\Search.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\obj\Debug\net5.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\obj\Debug\net5.0\Search.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\obj\Debug\net5.0\Search.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\obj\Debug\net5.0\Search.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\bin\Debug\net5.0\Search.exe
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\bin\Debug\net5.0\Search.deps.json
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\bin\Debug\net5.0\Search.runtimeconfig.json
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\bin\Debug\net5.0\Search.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\bin\Debug\net5.0\Search.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\bin\Debug\net5.0\ref\Search.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\bin\Debug\net5.0\Search.pdb
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\obj\Debug\net5.0\Search.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\obj\Debug\net5.0\ref\Search.dll
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\obj\Debug\net5.0\Search.pdb
+C:\Users\Desktop\Desktop\Pessoal\Estudo\Study\Search\Search\obj\Debug\net5.0\Search.genruntimeconfig.cache

@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Recursive",
-    "\\Reflection"
+    "\\Delegate",
+    "\\Delegate\\Delegate",
+    "\\Search",
+    "\\Search\\Search"
   ],
+  "SelectedNode": "\\Search\\Search\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

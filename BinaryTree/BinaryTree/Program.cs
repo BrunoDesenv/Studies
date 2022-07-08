@@ -6,27 +6,26 @@ namespace BinaryTree
     {
         static void Main(string[] args)
         {
-            //var tree = new Tree {
-            //    data = 37,
-            //    right = new Tree
-            //    {
-            //        data = 42
-            //    },
-            //    left = new Tree
-            //    {
-            //        data = 23,
-            //        right = new Tree
-            //        {
-            //            data = 29
-            //        }
+            var tree = new Tree
+            {
+                data = 37,
+                right = new Tree
+                {
+                    data = 42
+                },
+                left = new Tree
+                {
+                    data = 23,
+                    right = new Tree
+                    {
+                        data = 29
+                    }
 
-            //    }
-            //};
+                }
+            };
 
-            //Insert(tree, 30);
-            //ShowInOrder(tree);
-
-
+            Insert(tree, 30);
+            ShowInOrder(tree);
 
             var treeExample = new Tree
             {
@@ -133,6 +132,29 @@ namespace BinaryTree
                 }
             }
             return p;
+        }
+
+
+        public static Tree RotationRight(Tree tree)
+        {
+            // faz rotação para direita em relação ao nó apontado por p		
+            Tree treeLocal, temp;
+            treeLocal = tree.left;
+            temp = treeLocal.right;
+            treeLocal.right = tree;
+            tree.left = temp;
+            return treeLocal;
+        }
+
+        public static Tree rotacao_esquerda(Tree p)
+        {
+            // faz rotação para esquerda em relação ao nó apontado por p
+            Tree q, temp;
+            q = p.right;
+            temp = q.left;
+            q.left = p;
+            p.right = temp;
+            return q;
         }
     }
 }
