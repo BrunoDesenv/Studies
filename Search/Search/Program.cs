@@ -8,6 +8,9 @@ namespace Search
     {
         static void Main(String[] args)
         {
+            var binarySearch = new BinarySearch();
+            binarySearch.Example();
+
             var indexedSequentialSearch = new IndexedSequentialSearch();
             indexedSequentialSearch.Example();
 
